@@ -42,7 +42,7 @@ jobs:
       - run: npm ci
       - run: npm run build
       - run: npm run generate
-      - run: 'sed -i -e "s|Prefix: \"\"|Prefix: \"/soroban-rpc\"|g" build/docs/gatsby/gatsby-config.js'
+      - run: 'sed -i -e "s|Prefix: \"\"|Prefix: \"/soroban-rpc-api\"|g" build/docs/gatsby/gatsby-config.js'
       - run: 'sed -i -e "s|/api|api|g" build/docs/gatsby/src/pages/index.tsx'
       - run: npm run build:docs
       - name: setup git config
