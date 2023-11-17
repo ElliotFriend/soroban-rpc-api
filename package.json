@@ -7,7 +7,7 @@
   "scripts": {
     "build": "npm run build:spec",
     "build:spec": "node scripts/build.js",
-    "build:docs": "cd build/docs/gatsby && npm install && npm run build --prefix-paths",
+    "build:docs": "cd build/docs/gatsby && npm install --legacy-peer-deps && npm run build -- --prefix-paths",
     "test": "node scripts/build.js && node scripts/validate.js",
     "generate": "mkdir -p build && open-rpc-generator generate -c open-rpc-generator-config.json"
   },
