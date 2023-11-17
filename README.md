@@ -5,6 +5,7 @@
 - [Soroban RPC API Specification](#soroban-rpc-api-specification)
   - [JSON-RPC](#json-rpc)
     - [Building](#building)
+    - [Testing](#testing)
     - [JSON `$ref`s](#json-refs)
   - [Keeping Things Up-to-Date](#keeping-things-up-to-date)
     - [Methods (`/src/methods/*`)](#methods-srcmethods)
@@ -30,6 +31,17 @@ npm run build
 
 This will output the file to `openrpc.json` in the root directory of the
 project. This file will have all schema `$ref`s resolved.
+
+### Testing
+
+We have included a script which will test and validate the generated
+specification file.
+
+```bash
+npm install # if you haven't already run this
+npm run test
+# OpenRPC spec validated successfully.
+```
 
 ### JSON `$ref`s
 
