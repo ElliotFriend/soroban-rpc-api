@@ -1,0 +1,17 @@
+{
+    "LedgerSequence": {
+        "title": "ledgerSequence",
+        "description": "Stringified sequence number of the ledger.",
+        "type": "string"
+    },
+    "LatestLedger": {
+        "title": "latestLedger",
+        "description": "The latest ledger known to Soroban RPC at the time it handled the request.",
+        "$ref": "#/components/schemas/LedgerSequence"
+    },
+    "OldestLedger": {
+        "title": "oldestLedger",
+        "description": "The oldest ledger ingested by Soroban RPC at the time it handled the request.",
+        "$ref": "#/components/schemas/LedgerSequence"
+    }
+}

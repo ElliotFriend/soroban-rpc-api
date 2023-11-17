@@ -1,0 +1,27 @@
+{
+  "name": "soroban-rpc",
+  "version": "1.0.0",
+  "description": "Collection of JSON-RPC APIs provided by Soroban RPC instances",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "build": "node scripts/build.js",
+    "test": "node scripts/build.js && node scripts/validate.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stellar/soroban-tools.git"
+  },
+  "author": "Stellar Development Foundation",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/stellar/soroban-tools/issues"
+  },
+  "homepage": "https://github.com/stellar/soroban-tools#readme",
+  "devDependencies": {
+    "@json-schema-tools/reference-resolver": "^1.2.5",
+    "@open-rpc/generator": "^1.22.3",
+    "@open-rpc/schema-utils-js": "^1.16.1",
+    "json-schema-merge-allof": "^0.8.1"
+  }
+}
