@@ -5,8 +5,11 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "build": "node scripts/build.js",
-    "test": "node scripts/build.js && node scripts/validate.js"
+    "build": "npm run build:spec",
+    "build:spec": "node scripts/build.js",
+    "build:docs": "cd build/docs/gatsby && npm install && npm run build --prefix-paths",
+    "test": "node scripts/build.js && node scripts/validate.js",
+    "generate": "mkdir -p build && open-rpc-generator generate -c open-rpc-generator-config.json"
   },
   "repository": {
     "type": "git",
