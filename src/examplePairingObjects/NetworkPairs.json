@@ -8,7 +8,7 @@
             "value": {
                 "friendbotUrl": "https://friendbot-testnet.stellar.org/",
                 "passphrase": "Test SDF Network ; September 2015",
-                "protocolVersion": "20"
+                "protocolVersion": 20
             }
         }
     },
@@ -21,7 +21,7 @@
             "value": {
                 "friendbotUrl": "https://friendbot-futurenet.stellar.org/",
                 "passphrase": "Test SDF Future Network ; October 2022",
-                "protocolVersion": "20"
+                "protocolVersion": 20
             }
         }
     }

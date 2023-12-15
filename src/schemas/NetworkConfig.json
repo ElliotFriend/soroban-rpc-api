@@ -2,7 +2,7 @@
     "ProtocolVersion": {
         "title": "protocolVersion",
         "description": "Stellar Core protocol version associated with the latest ledger.",
-        "type": "string"
+        "type": "number"
     },
     "NetworkPassphrase": {
         "title": "networkPassphrase",
