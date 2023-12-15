@@ -19,7 +19,6 @@
                     "$ref": "#/components/schemas/ProtocolVersion"
                 },
                 "sequence": {
-                    "type": "number",
                     "$ref": "#/components/schemas/LatestLedger"
                 }
             }

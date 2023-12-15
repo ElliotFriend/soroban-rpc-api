@@ -39,7 +39,7 @@
                 },
                 "ledger": {
                     "title": "ledger",
-                    "description": "(optional) The sequence of the ledger which included the transaction. This field is only present if `status` is `SUCCESS` or `FAILED`.",
+                    "description": "(optional) The sequence number of the ledger which included the transaction. This field is only present if `status` is `SUCCESS` or `FAILED`.",
                     "$ref": "#/components/schemas/LedgerSequence"
                 },
                 "createdAt": {

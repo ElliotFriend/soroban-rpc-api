@@ -27,7 +27,6 @@
                 "$ref": "#/components/schemas/LedgerSequence"
             },
             "liveUntilLedgerSeq": {
-                "type": "string",
                 "$ref": "#/components/schemas/LedgerSequence"
             }
         }

@@ -14,10 +14,10 @@
                 {
                     "key": "AAAAB+qfy4GuVKKfazvyk4R9P9fpo2n9HICsr+xqvVcTF+DC",
                     "xdr": "AAAABgAAAAAAAAABzAP+dP0PsNzYvFF1pv7a8RQXwH5eg3uZBbbWjE9PwAsAAAAQAAAAAQAAAAIAAAAPAAAAB0NvdW50ZXIAAAAAEgAAAAAAAAAAIOHWwMbBgBiAnwRt4k9nChmEOoSuLCVs2eqK9Qub+hgAAAABAAAAAwAAAAw=",
-                    "lastModifiedLedgerSeq": "2552504"
+                    "lastModifiedLedgerSeq": 2552504
                 }
             ],
-            "latestLedger": "2552990"
+            "latestLedger": 2552990
         }
     },
     "LedgerKeyContractBalance": {
@@ -35,10 +35,10 @@
                 {
                     "key": "AAAABgAAAAHXkotywnA8z+r365/0701QSlWouXn8m0UOoshCtNHOYQAAABAAAAABAAAAAgAAAA8AAAAHQmFsYW5jZQAAAAASAAAAAcwD/nT9D7Dc2LxRdab+2vEUF8B+XoN7mQW21oxPT8ALAAAAAQ==",
                     "xdr": "AAAABgAAAAAAAAAB15KLcsJwPM/q9+uf9O9NUEpVqLl5/JtFDqLIQrTRzmEAAAAQAAAAAQAAAAIAAAAPAAAAB0JhbGFuY2UAAAAAEgAAAAHMA/50/Q+w3Ni8UXWm/trxFBfAfl6De5kFttaMT0/ACwAAAAEAAAARAAAAAQAAAAMAAAAPAAAABmFtb3VudAAAAAAACgAAAAAAAAAAAAAAAB3NZQAAAAAPAAAACmF1dGhvcml6ZWQAAAAAAAAAAAABAAAADwAAAAhjbGF3YmFjawAAAAAAAAAA",
-                    "lastModifiedLedgerSeq": "2553612"
+                    "lastModifiedLedgerSeq": 2553612
                 }
             ],
-            "latestLedger": "2553713"
+            "latestLedger": 2553713
         }
     },
     "CombinedLedgerKeys": {
@@ -57,15 +57,15 @@
                 {
                     "key": "AAAABgAAAAHMA/50/Q+w3Ni8UXWm/trxFBfAfl6De5kFttaMT0/ACwAAABAAAAABAAAAAgAAAA8AAAAHQ291bnRlcgAAAAASAAAAAAAAAAAg4dbAxsGAGICfBG3iT2cKGYQ6hK4sJWzZ6or1C5v6GAAAAAE=",
                     "xdr": "AAAABgAAAAAAAAAB15KLcsJwPM/q9+uf9O9NUEpVqLl5/JtFDqLIQrTRzmEAAAAQAAAAAQAAAAIAAAAPAAAAB0JhbGFuY2UAAAAAEgAAAAHMA/50/Q+w3Ni8UXWm/trxFBfAfl6De5kFttaMT0/ACwAAAAEAAAARAAAAAQAAAAMAAAAPAAAABmFtb3VudAAAAAAACgAAAAAAAAAAAAAAAB3NZQAAAAAPAAAACmF1dGhvcml6ZWQAAAAAAAAAAAABAAAADwAAAAhjbGF3YmFjawAAAAAAAAAA",
-                    "lastModifiedLedgerSeq": "2553612"
+                    "lastModifiedLedgerSeq": 2553612
                 },
                 {
                     "key": "AAAABgAAAAHXkotywnA8z+r365/0701QSlWouXn8m0UOoshCtNHOYQAAABAAAAABAAAAAgAAAA8AAAAHQmFsYW5jZQAAAAASAAAAAcwD/nT9D7Dc2LxRdab+2vEUF8B+XoN7mQW21oxPT8ALAAAAAQ==",
                     "xdr": "AAAABgAAAAAAAAABzAP+dP0PsNzYvFF1pv7a8RQXwH5eg3uZBbbWjE9PwAsAAAAQAAAAAQAAAAIAAAAPAAAAB0NvdW50ZXIAAAAAEgAAAAAAAAAAIOHWwMbBgBiAnwRt4k9nChmEOoSuLCVs2eqK9Qub+hgAAAABAAAAAwAAAAw=",
-                    "lastModifiedLedgerSeq": "2552504"
+                    "lastModifiedLedgerSeq": 2552504
                 }
             ],
-            "latestLedger": "2553767"
+            "latestLedger": 2553767
         }
     }
 }

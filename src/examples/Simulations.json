@@ -24,7 +24,7 @@
                 "cpuInsns": "1635562",
                 "memBytes": "1295756"
             },
-            "latestLedger": "2552139"
+            "latestLedger": 2552139
         }
     },
     "InvalidContractTransaction": {
@@ -45,7 +45,7 @@
                 "cpuInsns": "0",
                 "memBytes": "0"
             },
-            "latestLedger": "2552013"
+            "latestLedger": 2552013
         }
     }
 }

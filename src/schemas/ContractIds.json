@@ -7,7 +7,7 @@
     "ContractIds": {
         "title": "contractIds",
         "type": "array",
-        "description": "(optional) List of contract IDs to query for events. If omitted, return events for all contracts. Maximum 5 contract IDs are allowed per request.",
+        "description": "List of contract IDs to query for events. If omitted, return events for all contracts. Maximum 5 contract IDs are allowed per request.",
         "maxItems": 5,
         "items": {
             "$ref": "#/components/schemas/ContractId"
