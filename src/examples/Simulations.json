@@ -47,5 +47,13 @@
             },
             "latestLedger": 2552013
         }
+    },
+    "DefaultResourceConfig": {
+        "name": "resourceConfig",
+        "summary": "the default resource configuration",
+        "description": "The default value for the (optional) resource configuration object for transaction simulation.",
+        "value": {
+            "instructionLeeway": 3000000
+        }
     }
 }

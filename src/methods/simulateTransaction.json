@@ -9,6 +9,9 @@
     "params": [
         {
             "$ref": "#/components/contentDescriptors/UnsignedTransaction"
+        },
+        {
+            "$ref": "#/components/contentDescriptors/ResourceConfig"
         }
     ],
     "result": {
