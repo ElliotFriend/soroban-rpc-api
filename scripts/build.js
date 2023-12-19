@@ -97,7 +97,7 @@ const doc = {
       name: "Apache 2.0",
       url: "https://www.apache.org/licenses/LICENSE-2.0.html"
     },
-    version: "20.0.2"
+    version: "20.1.0"
   },
   servers: [
     {
