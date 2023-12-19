@@ -6,7 +6,7 @@
                 "$ref": "#/components/schemas/EventType"
             },
             "ledger": {
-                "description": "Stringified sequence number of the ledger in which this event was emitted.",
+                "description": "Sequence number of the ledger in which this event was emitted.",
                 "$ref": "#/components/schemas/LedgerSequence"
             },
             "ledgerClosedAt": {
